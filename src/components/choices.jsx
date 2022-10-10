@@ -83,7 +83,7 @@ class Choices extends Component {
       links: [
         {
           text: "ADVPN configuration",
-          url: "",
+          url: "https://www.juniper.net/documentation/us/en/software/junos/vpn-ipsec/topics/topic-map/security-auto-discovery-vpns.html",
         },
       ],
     },
@@ -95,11 +95,11 @@ class Choices extends Component {
       links: [
         {
           text: "Group VPN",
-          url: "",
+          url: "https://www.juniper.net/documentation/us/en/software/junos/vpn-ipsec/topics/topic-map/security-group-vpnv2.html",
         },
         {
           text: "AutoVPN",
-          url: "",
+          url: "https://www.juniper.net/documentation/us/en/software/junos/vpn-ipsec/topics/topic-map/security-autovpn-on-hub-and-spoke-devices.html",
         },
       ],
     },
@@ -112,7 +112,7 @@ class Choices extends Component {
       links: [
         {
           text: "Hub-and-Spoke Route-Based VPNs",
-          url: "",
+          url: "https://www.juniper.net/documentation/us/en/software/junos/vpn-l3/topics/topic-map/l3-vpns-hub-spoke.html",
         },
       ],
     },
